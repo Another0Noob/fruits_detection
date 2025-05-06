@@ -1,0 +1,5 @@
+ultralytics
+cmake
+onnx
+onnxruntime
+onnxslim

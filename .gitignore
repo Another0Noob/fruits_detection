@@ -1,3 +1,4 @@
 /.venv/
+/.venv1/
 /img/
-/yolo11l.onnx
+/yolo11l.onnx/

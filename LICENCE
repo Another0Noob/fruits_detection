@@ -11,7 +11,7 @@ This project includes and distributes code and resources under the following lic
 The YOLOv11 model is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 - If you use, modify, or distribute this project (including via network), you must comply with the terms of the AGPL-3.0 license.
-- More information: https://www.gnu.org/licenses/agpl-3.0.html
+- More information: https://www.ultralytics.com/legal/agpl-3-0-software-license
 - Model source: https://github.com/ultralytics/ultralytics
 
 **As a result, this entire project is licensed under AGPL-3.0.**
@@ -49,8 +49,5 @@ This program is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU Affero General Public License for more details.
-
-You should have received a copy of the GNU Affero General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
 ---

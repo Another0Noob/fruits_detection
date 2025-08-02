@@ -21,4 +21,16 @@
     ```bash
     pip install -r requirements.txt
     ```
-   
+
+@misc{supermarket-items-yolov7_dataset,
+  title = {Supermarket Items (YOLOv7) Dataset},
+  type = {Open Source Dataset},
+  author = {EndeXspace},
+  howpublished = {\url{https://universe.roboflow.com/endexspace/supermarket-items-yolov7}},
+  url = {https://universe.roboflow.com/endexspace/supermarket-items-yolov7},
+  journal = {Roboflow Universe},
+  publisher = {Roboflow},
+  year = {2025},
+  month = {jan},
+  note = {visited on 2025-08-02},
+}

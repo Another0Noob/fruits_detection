@@ -1,0 +1,67 @@
+Copyright (c) 2025 Another0Noob
+
+# License
+
+This project includes and distributes code and resources under the following licenses:
+
+---
+
+## 1. Model: YOLOv11 by Ultralytics
+
+The YOLOv11 model is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
+
+- If you use, modify, or distribute this project (including via network), you must comply with the terms of the AGPL-3.0 license.
+- More information: https://www.gnu.org/licenses/agpl-3.0.html
+- Model source: https://github.com/ultralytics/ultralytics
+
+**As a result, this entire project is licensed under AGPL-3.0.**
+
+---
+
+## 2. Dataset: Supermarket Items (YOLOv7) by EndeXspace
+
+This project uses the "Supermarket Items (YOLOv7)" dataset by EndeXspace, available at [Roboflow Universe](https://universe.roboflow.com/endexspace/supermarket-items-yolov7).
+
+- The dataset is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+- See: https://creativecommons.org/licenses/by/4.0/
+- You must provide appropriate credit when using or redistributing the dataset or models trained on it.
+
+Dataset citation (as required by the authors):
+
+@misc{supermarket-items-yolov7_dataset,
+  title = {Supermarket Items (YOLOv7) Dataset},
+  type = {Open Source Dataset},
+  author = {EndeXspace},
+  howpublished = {\url{https://universe.roboflow.com/endexspace/supermarket-items-yolov7}},
+  url = {https://universe.roboflow.com/endexspace/supermarket-items-yolov7},
+  journal = {Roboflow Universe},
+  publisher = {Roboflow},
+  year = {2025},
+  month = {jan},
+  note = {visited on 2025-08-02},
+}
+
+---
+
+## 3. Project Code
+
+Unless otherwise specified, all original code in this repository is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0) as required for compatibility with YOLOv11.
+
+---
+
+## AGPL-3.0 License
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
+---

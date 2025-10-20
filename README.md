@@ -34,4 +34,4 @@ EndeXspace. "Supermarket Items (YOLOv7) Dataset." Roboflow Universe, Jan. 2025, 
 
 ---
 
-For more information and hands-on examples, visit our [Kaggle notebook](https://www.kaggle.com/code/another0noob/fruits-vegetable-detection-yolo11).
+For more information and hands-on examples, visit [Kaggle notebook](https://www.kaggle.com/code/another0noob/fruits-vegetable-detection-yolo11).
